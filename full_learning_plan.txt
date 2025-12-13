@@ -1,0 +1,171 @@
+🌱 AI Mastery Roadmap (Beginner → Advanced)
+PHASE 0 — Foundations (No coding experience needed)
+Lesson 1: What is AI?
+
+AI vs Machine Learning vs Deep Learning
+
+What problems AI can solve
+
+Real-world examples
+
+Lesson 2: Basic Math for AI (easy explanations)
+
+Arithmetic refresher
+
+Intro to algebra
+
+What vectors/matrices are (very simple first)
+
+Why math matters (intuition only!)
+
+Lesson 3: Learning Python (the AI programming language)
+
+Variables, loops, functions
+
+Lists, dictionaries
+
+Writing your first small programs
+
+Using Jupyter Notebook or Google Colab
+
+Goal: Be comfortable writing small Python scripts.
+
+PHASE 1 — Core AI / ML Concepts
+Lesson 4: What is Machine Learning?
+
+Types of ML:
+
+Supervised
+
+Unsupervised
+
+Reinforcement learning
+
+Training vs testing
+
+What is a model?
+
+Lesson 5: Essential ML Math (simple intuition)
+
+Gradient descent
+
+Loss functions
+
+Probability basics
+
+Lesson 6: Using ML libraries
+
+NumPy (math)
+
+Pandas (data)
+
+Matplotlib (visualization)
+
+Lesson 7: Your First ML Models
+
+You will build:
+
+Linear regression
+
+Logistic regression
+
+Decision tree
+
+K-NN
+
+Tools: scikit-learn
+
+PHASE 2 — Deep Learning (Neural Networks)
+Lesson 8: What are neural networks?
+
+Neurons
+
+Layers
+
+Activation functions
+
+Forward pass
+
+Backpropagation (simple explanation)
+
+Lesson 9: Intro to PyTorch / TensorFlow
+
+Building your first neural network
+
+Training, evaluating, saving models
+
+Lesson 10: Computer Vision
+
+Convolutional Neural Networks (CNNs)
+
+Image classification
+
+Transfer learning
+
+Lesson 11: Natural Language Processing (NLP)
+
+Word embeddings
+
+RNNs, LSTMs
+
+Attention
+
+PHASE 3 — Modern AI (Transformers & LLMs)
+Lesson 12: Transformers architecture
+
+Self-attention
+
+Positional encoding
+
+Encoder vs decoder
+
+Lesson 13: Large Language Models (like ChatGPT)
+
+How LLMs are trained
+
+Tokenization
+
+Fine-tuning
+
+Prompt engineering
+
+Lesson 14: Build AI Applications
+
+Chatbots
+
+Text classifiers
+
+Image captioning
+
+Speech recognition
+
+PHASE 4 — Advanced
+Lesson 15: MLOps
+
+Deploying models
+
+Monitoring
+
+Scaling with cloud services
+
+Lesson 16: Reinforcement Learning
+
+Agents, environments
+
+Q-learning
+
+Policy gradients
+
+Lesson 17: Research-Level AI Concepts
+
+Diffusion models
+
+Multimodal models
+
+Retrieval Augmented Generation (RAG)
+
+Model quantization
+
+Optimization techniques
+
+

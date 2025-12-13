@@ -1,0 +1,451 @@
+🚀 FULL 90-DAY AI MASTERY PLAN
+
+Beginner → Advanced → Job-ready
+Daily schedule (Day 1 to Day 90)
+
+⭐ MONTH 1 — Python + Math + Machine Learning Basics (Day 1–30)
+
+Goal: Become comfortable with Python, math, ML foundations, and build first models.
+
+📌 WEEK 1 — Python Foundations (Days 1–7)
+Day 1
+
+What is AI?
+
+AI vs ML vs Deep Learning
+
+Install Python, Jupyter, Google Colab
+
+Write your first print() program
+
+Day 2
+
+Variables, data types
+
+Input/output
+
+Practice beginner exercises
+
+Day 3
+
+Loops (for, while)
+
+Range, enumerate
+
+Solve 10 simple loop problems
+
+Day 4
+
+Lists
+
+Indexing, slicing
+
+Small exercises
+
+Day 5
+
+Dictionaries
+
+Key-value pairs
+
+Practice: Count word frequency
+
+Day 6
+
+Functions
+
+Parameters, return values
+
+Write 5 small functions
+
+Day 7
+
+Mini project: Student Score Manager in Python
+
+Review all topics
+
+📌 WEEK 2 — Math + NumPy + Pandas (Days 8–14)
+Day 8
+
+Basic algebra refresher
+
+Variables, equations
+
+Day 9
+
+Vectors, matrices (intuition only)
+
+Why ML uses matrices
+
+Day 10
+
+Probability basics
+
+Mean, variance, distributions
+
+Day 11
+
+NumPy arrays
+
+Array operations
+
+Day 12
+
+NumPy advanced (reshape, broadcasting)
+
+Day 13
+
+Pandas basics
+
+DataFrames, reading CSVs
+
+Day 14
+
+Pandas cleaning (missing values, filtering)
+
+Mini project: Data Cleaning Script
+
+📌 WEEK 3 — Machine Learning Foundations (Days 15–21)
+Day 15
+
+What is ML?
+
+Supervised vs unsupervised
+
+Features/labels
+
+Day 16
+
+Training vs testing
+
+Loss functions
+
+Evaluation metrics
+
+Day 17
+
+Linear Regression (scikit-learn)
+
+Build your first model
+
+Day 18
+
+Logistic Regression
+
+Binary classification
+
+Day 19
+
+Decision Trees
+
+Tree visualization
+
+Day 20
+
+K-Nearest Neighbors
+
+Hyperparameters
+
+Day 21
+
+Weekly project:
+House Price Prediction Model
+
+📌 WEEK 4 — Unsupervised ML + Visualization (Days 22–30)
+Day 22
+
+What is clustering
+
+K-Means intuition
+
+Day 23
+
+K-Means in Python
+
+Plot results
+
+Day 24
+
+PCA basics
+
+Dimensionality reduction
+
+Day 25
+
+PCA in scikit-learn
+
+Day 26
+
+Matplotlib basics
+
+Line charts, scatter plots
+
+Day 27
+
+Visualizing ML results
+
+Day 28–30
+
+Final project:
+Customer Segmentation Using K-Means
+
+⭐ MONTH 2 — Deep Learning + Computer Vision + NLP (Day 31–60)
+📌 WEEK 5 — Neural Networks (Days 31–37)
+Day 31
+
+Neurons
+
+Layers
+
+Activation functions
+
+Day 32
+
+Forward pass
+
+Backpropagation (intuition)
+
+Day 33
+
+Install PyTorch
+
+Tensors basics
+
+Day 34
+
+Build your first NN in PyTorch
+
+Day 35
+
+Loss functions + optimizers
+
+Training loops
+
+Day 36
+
+Model evaluation + saving models
+
+Day 37
+
+Weekly project:
+MNIST Handwritten Digit Classifier
+
+📌 WEEK 6 — Computer Vision (CNNs) (Days 38–44)
+Day 38
+
+Convolution, filters, feature maps
+
+Day 39
+
+Build a CNN from scratch
+
+Day 40
+
+Pooling, flattening, softmax
+
+Day 41
+
+Transfer learning: ResNet / EfficientNet
+
+Day 42
+
+Data augmentation
+
+Day 43
+
+Train a complete CNN
+
+Day 44
+
+Weekly project:
+Cats vs Dogs Classifier (Transfer Learning)
+
+📌 WEEK 7 — NLP (Text Models) (Days 45–51)
+Day 45
+
+Tokenization
+
+Vocabulary
+
+Sequences
+
+Day 46
+
+Word embeddings
+
+Word2Vec / GloVe
+
+Day 47
+
+RNNs
+
+LSTMs
+
+Day 48
+
+Build an LSTM classifier
+
+Day 49
+
+Improve accuracy, tune hyperparameters
+
+Day 50
+
+Train on real dataset
+
+Day 51
+
+Weekly project:
+Sentiment Analysis with LSTM
+
+📌 WEEK 8 — Transformers (Days 52–60)
+Day 52
+
+Attention mechanism
+
+Why it replaced RNNs
+
+Day 53
+
+Self-attention math (simple explanation)
+
+Day 54
+
+Positional encoding
+
+Day 55
+
+Encoder vs decoder
+
+Day 56
+
+HuggingFace basics
+
+Day 57–58
+
+Fine-tune DistilBERT on text classification
+
+Day 59–60
+
+Weekly project:
+Fine-Tune BERT for a Real NLP Task
+
+⭐ MONTH 3 — LLMs + RAG + MLOps + Deployment (Day 61–90)
+📌 WEEK 9 — Large Language Models (Days 61–67)
+Day 61
+
+How LLMs are trained
+
+Tokens, tokenization
+
+Day 62
+
+Prompt engineering
+
+Day 63
+
+ChatGPT API or Llama models
+
+Day 64
+
+Build a simple chatbot
+
+Day 65
+
+Fine-tune an LLM (intro)
+
+Day 66–67
+
+Weekly project:
+AI Chatbot Using OpenAI or Llama
+
+📌 WEEK 10 — RAG Systems (Days 68–74)
+Day 68
+
+Embeddings
+
+Why RAG is powerful
+
+Day 69
+
+Vector databases (FAISS/Pinecone)
+
+Day 70
+
+Document parsing + indexing
+
+Day 71
+
+Retrieval pipeline
+
+Day 72
+
+Generate answers with retrieved context
+
+Day 73–74
+
+Weekly project:
+RAG Chatbot That Answers Using Your Own Documents
+
+📌 WEEK 11 — Deployment + MLOps (Days 75–81)
+Day 75
+
+Docker basics
+
+Day 76
+
+FastAPI basics
+
+Day 77
+
+Build API for ML model
+
+Day 78
+
+Deploy to Render/Railway/EC2
+
+Day 79
+
+Monitoring basics
+
+Logging
+
+Day 80–81
+
+Weekly project:
+Deployed ML API (Web-accessible)
+
+📌 WEEK 12 — Portfolio + Job-Ready Skills (Days 82–90)
+Day 82
+
+Create GitHub portfolio
+
+Day 83
+
+Polish README files
+
+Day 84
+
+Build personal portfolio website
+
+Day 85
+
+Create AI CV / resume
+
+Day 86
+
+Internship preparation
+
+Common ML interview questions
+
+Day 87
+
+Mock interview
+
+Python + ML basics revision
+
+Day 88–90
+
+Final capstone project:
+AI System combining: LLM + RAG + Deployment
+(This is impressive to employers.)
